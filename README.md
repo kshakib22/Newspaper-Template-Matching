@@ -1,4 +1,5 @@
 # Newspaper Template Matching
+
 ## Overview
 The notebook uses template matching to retrieve Shipping report from the Star of Chile newspapers. We observed that shipping reports appear right before the 'Charters' section of the newspaper column. we use that fact to first match the shipping report title followed by the Charters title and crop the portion in between to get our desired table. 
 ## Guidelines
