@@ -10,6 +10,6 @@ The threshold value is the similarity values found between the template image an
 ## Templates
 Our second template, the title 'Charters' was kept same throughout different folders (only threshold values were adjusted). The image used was this : ![template2](https://github.com/kshakib22/Newspaper-Template-Matching/blob/f2185ace52e759e9910da363ce8fc76d89312eb9/template%202.jpg)
 
-At the beginning, our first template was this title : ![old_template1](https://github.com/kshakib22/Newspaper-Template-Matching/blob/f2185ace52e759e9910da363ce8fc76d89312eb9/old%20template%201.jpg) . This had threshold values that varied quite frequently and yielded inaccurate results.
+At the beginning, our first template was this title : ![old_template1](https://github.com/kshakib22/Newspaper-Template-Matching/blob/f2185ace52e759e9910da363ce8fc76d89312eb9/old%20template%201.jpg) This had threshold values that varied quite frequently and yielded inaccurate results.
 
 However, the following template yielded the best results: ![new_template1](https://github.com/kshakib22/Newspaper-Template-Matching/blob/f2185ace52e759e9910da363ce8fc76d89312eb9/template%201.jpg) due to its unique nature within the newspaper.
