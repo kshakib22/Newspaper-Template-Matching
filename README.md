@@ -1,1 +1,1 @@
-# Newspaper-image-segmentation
+# Newspaper Template Matching
