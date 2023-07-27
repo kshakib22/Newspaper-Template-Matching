@@ -13,3 +13,6 @@ Our second template, the title 'Charters' was kept same throughout different fol
 At the beginning, our first template was this title : ![old_template1](https://github.com/kshakib22/Newspaper-Template-Matching/blob/f2185ace52e759e9910da363ce8fc76d89312eb9/old%20template%201.jpg) This had threshold values that varied quite frequently and yielded inaccurate results.
 
 However, the following template yielded the best results: ![new_template1](https://github.com/kshakib22/Newspaper-Template-Matching/blob/f2185ace52e759e9910da363ce8fc76d89312eb9/template%201.jpg) due to its unique nature within the newspaper.
+
+## Further steps
+Once all the shipping reports were extracted, we used [Extracttable](https://extracttable.com/) online service to convert the tabular image to a table and was downloaded as .csv. The downloaded csv was cleaned up using the CSV cleanup notebook both manually and through code for repeating patterns.
